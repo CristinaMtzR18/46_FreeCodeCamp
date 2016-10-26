@@ -1,0 +1,57 @@
+/* Tu CSS va aqui */
+							/*** GENERAL ***/
+
+/*Margin*/
+.mg-5{
+	margin: 5%;
+}
+.mgt-2{
+	margin-top: 2%;
+}
+.mgt-5{
+	margin-top: 5%;
+}
+.mgt-15{
+	margin-top: 15%;
+}
+.mgt-35{
+	margin-top: 35%;
+}
+.mg-3{
+	margin: 3%;
+}
+.mgb-3{
+	margin-bottom: 3%;
+}
+.mgb-5{
+	margin-bottom: 5%;
+}
+.mg-0{
+	margin: 0;
+}
+.mgl-40{
+	margin-left: 40%; 
+}
+.mgl-35{
+	margin-left: 35%;
+}
+.mgl-25{
+	margin-left: 25%;
+}
+.mgt-2{
+	margin-top: 2%;
+}
+.mgt-10{
+	margin-top: 12%;
+}
+.mg{
+	margin-left: 2%;
+	margin-right:2%;
+}
+/*Padding*/
+.pd-5{
+	padding: 5%;
+}
+.pd-3{
+	padding: 3%;
+}
